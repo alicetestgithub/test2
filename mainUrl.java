@@ -1,2 +1,2 @@
-URL Live - Live.com
-//URL UAT - uat.com
+//URL Live - Live.com
+URL UAT - uat.com
